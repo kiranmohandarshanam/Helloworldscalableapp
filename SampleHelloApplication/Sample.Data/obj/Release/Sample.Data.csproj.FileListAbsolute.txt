@@ -1,0 +1,10 @@
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Release\Sample.Data.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Release\Sample.Data.pdb
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Release\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Release\Sample.Data.Interface.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Release\Sample.Data.Interface.pdb
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Release\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Release\Sample.Data.csprojResolveAssemblyReference.cache
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Release\Sample.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Release\Sample.Data.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Release\Sample.Data.pdb

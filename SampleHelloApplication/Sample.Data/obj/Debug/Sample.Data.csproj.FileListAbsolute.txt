@@ -1,0 +1,28 @@
+C:\Projects\Vendor Test\SampleApp\Sample.Data\bin\Debug\Sample.Data.dll
+C:\Projects\Vendor Test\SampleApp\Sample.Data\bin\Debug\Sample.Data.pdb
+C:\Projects\Vendor Test\SampleApp\Sample.Data\bin\Debug\Sample.Data.Interface.dll
+C:\Projects\Vendor Test\SampleApp\Sample.Data\bin\Debug\Sample.Data.Interface.pdb
+C:\Projects\Vendor Test\SampleApp\Sample.Data\obj\Debug\Sample.Data.csprojResolveAssemblyReference.cache
+C:\Projects\Vendor Test\SampleApp\Sample.Data\obj\Debug\Sample.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Vendor Test\SampleApp\Sample.Data\obj\Debug\Sample.Data.dll
+C:\Projects\Vendor Test\SampleApp\Sample.Data\obj\Debug\Sample.Data.pdb
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\bin\Debug\Sample.Data.dll
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\bin\Debug\Sample.Data.pdb
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\bin\Debug\Sample.Data.Interface.dll
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\bin\Debug\Sample.Data.Interface.pdb
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\obj\Debug\Sample.Data.csprojResolveAssemblyReference.cache
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\obj\Debug\Sample.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\obj\Debug\Sample.Data.dll
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\obj\Debug\Sample.Data.pdb
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Vendor Test\samplehelloapp12\Sample.Data\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Debug\Sample.Data.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Debug\Sample.Data.pdb
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Debug\Sample.Data.Interface.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Debug\Sample.Data.Interface.pdb
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Debug\Sample.Data.csprojResolveAssemblyReference.cache
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Debug\Sample.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Debug\Sample.Data.dll
+C:\Projects\Exams\SampleHelloApplication\Sample.Data\obj\Debug\Sample.Data.pdb
